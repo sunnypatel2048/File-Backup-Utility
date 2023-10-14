@@ -36,7 +36,7 @@ This Go File Backup Utility is designed to copy files and directories from a sou
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/go-file-backup-utility.git
+   git clone https://github.com/sunnypatel2048/File-Backup-Utility.git
    ```
    
 2. Switch to the project directory:
@@ -83,4 +83,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-TThis project is licensed under the [MIT License](LICENSE). You can view the full license text [here](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](LICENSE). You can view the full license text [here](https://opensource.org/licenses/MIT).
