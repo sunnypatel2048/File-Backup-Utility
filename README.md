@@ -37,11 +37,13 @@ This Go File Backup Utility is designed to copy files and directories from a sou
 
    ```bash
    git clone https://github.com/yourusername/go-file-backup-utility.git
-    
+   ```
+   
 2. Switch to the project directory:
 
     ```bash
-    cd "File Backup Utility"
+    cd File-Backup-Utility
+    ```
 
 ## Usage
 
@@ -51,6 +53,7 @@ This Go File Backup Utility is designed to copy files and directories from a sou
 
     ```bash
     go run main.go
+    ```
 
 3. Follow the on-screen prompts to provide source and destination paths.
 
@@ -63,6 +66,10 @@ The utility copies files and directories from the source to the destination usin
 ## Tests
 
 To run tests, use the following command in the project directory:
+
+  ```bash
+  go test
+  ```
 
 ## Contributing
 
